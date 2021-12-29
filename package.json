@@ -1,0 +1,22 @@
+{
+  "name": "module1",
+  "version": "1.0.0",
+  "description": "Test directory for node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omair4/HKU_Course_Bootstrap.git"
+  },
+  "author": "Omair Hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omair4/HKU_Course_Bootstrap/issues"
+  },
+  "homepage": "https://github.com/omair4/HKU_Course_Bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
